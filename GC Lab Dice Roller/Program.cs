@@ -1,9 +1,4 @@
-﻿//taking in combos
-//Methods have 2 parameters: 1 for dice combos (two 1s, two 6s, etc), 1 for total (box cars, snake eyes, etc)
-//static bool GoAgain()******************************************************
-
-//user input
-
+﻿//user input
 //in case user entered a string, or less than 1 side
 bool sideInput = true;
 while (sideInput)
